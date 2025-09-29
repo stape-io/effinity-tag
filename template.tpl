@@ -1,0 +1,1947 @@
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
+
+{
+  "type": "TAG",
+  "id": "cvt_temp_public_id",
+  "version": 1,
+  "securityGroups": [],
+  "displayName": "Effinity by Stape",
+  "categories": [
+    "AFFILIATE_MARKETING",
+    "ADVERTISING",
+    "CONVERSIONS"
+  ],
+  "brand": {
+    "id": "brand_dummy",
+    "displayName": "stape.io",
+    "thumbnail": "data:image/png;base64,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\u003d"
+  },
+  "description": "Effinity server-to-server (S2S) conversion tracking.",
+  "containerContexts": [
+    "SERVER"
+  ]
+}
+
+
+___TEMPLATE_PARAMETERS___
+
+[
+  {
+    "type": "RADIO",
+    "name": "type",
+    "displayName": "Event Type",
+    "radioItems": [
+      {
+        "value": "pageView",
+        "displayValue": "Page View"
+      },
+      {
+        "value": "conversion",
+        "displayValue": "Conversion"
+      }
+    ],
+    "simpleValueType": true,
+    "defaultValue": "pageView",
+    "help": "\u003cb\u003ePage View\u003c/b\u003e \n\u003cbr/\u003e\nCaptures the parameters from the Landing Page URL and saves it into the \u003ci\u003eeff_cid\u003c/i\u003e cookie for attribution:\n\u003cul\u003e\n\u003cli\u003eeff_cpt\u003c/li\u003e\n\u003cli\u003eeff_sub1\u003c/li\u003e\n\u003cli\u003eeff_sub2\u003c/li\u003e\n\u003cli\u003eeff_pid\u003c/li\u003e\n\u003cli\u003eeff_pcid\u003c/li\u003e\n\u003cli\u003eeff_pcuid\u003c/li\u003e\n\u003cli\u003eeff_pr1\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr/\u003e\n\u003cb\u003eConversion\u003c/b\u003e\n\u003cbr/\u003e\nSends a postback with conversion (lead or sale) data to Effinity."
+  },
+  {
+    "type": "GROUP",
+    "name": "pageViewGroup",
+    "groupStyle": "NO_ZIPPY",
+    "subParams": [
+      {
+        "type": "GROUP",
+        "name": "cookieSettingsGroup",
+        "displayName": "Cookie Settings",
+        "groupStyle": "ZIPPY_OPEN_ON_PARAM",
+        "subParams": [
+          {
+            "type": "TEXT",
+            "name": "cookieExpiration",
+            "displayName": "Cookie Expiration",
+            "simpleValueType": true,
+            "help": "The number of days Click ID cookie will live.\n\u003cbr\u003e\u003cbr\u003e\nSet this to, at least, the agreed cookie duration on your program settings.",
+            "valueUnit": "days",
+            "defaultValue": 30,
+            "valueHint": "30",
+            "valueValidators": [
+              {
+                "type": "NON_NEGATIVE_NUMBER"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "name": "cookieDomain",
+            "displayName": "Cookie Domain",
+            "simpleValueType": true,
+            "help": "Use this option to override the cookie domain.\n\u003cbr\u003e\nEnter your website\u0027s top-level domain as a fixed value (e.g., example.com).\n\u003cbr\u003e\nIf left as \u003ci\u003eauto\u003c/i\u003e, the domain will be automatically determined using the following priority:\n\u003cul\u003e\n\u003cli\u003eDomain of the \u003ci\u003eForwarded\u003c/i\u003e header (if present).\u003c/li\u003e\n\u003cli\u003eDomain of the \u003ci\u003eX-Forwarded-Host\u003c/i\u003e header (if present).\u003c/li\u003e\n\u003cli\u003eDomain of the \u003ci\u003eHost\u003c/i\u003e header.\u003c/li\u003e\n\u003c/ul\u003e",
+            "valueValidators": [
+              {
+                "type": "NON_EMPTY"
+              }
+            ],
+            "defaultValue": "auto",
+            "valueHint": "example.com"
+          },
+          {
+            "type": "SELECT",
+            "name": "cookieSameSite",
+            "displayName": "Cookie SameSite",
+            "macrosInSelect": true,
+            "selectItems": [
+              {
+                "value": "none",
+                "displayValue": "None"
+              },
+              {
+                "value": "lax",
+                "displayValue": "Lax"
+              },
+              {
+                "value": "strict",
+                "displayValue": "Strict"
+              }
+            ],
+            "simpleValueType": true,
+            "help": "\u003ca href\u003d\"https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Set-Cookie#samesitesamesite-value\"\u003eLearn more\u003c/a\u003e.",
+            "defaultValue": "none"
+          },
+          {
+            "type": "SELECT",
+            "name": "cookieHttpOnly",
+            "displayName": "Cookie HttpOnly",
+            "macrosInSelect": true,
+            "selectItems": [
+              {
+                "value": false,
+                "displayValue": "false"
+              },
+              {
+                "value": true,
+                "displayValue": "true"
+              }
+            ],
+            "simpleValueType": true,
+            "defaultValue": false,
+            "help": "Forbids JavaScript in the browser from accessing the cookie."
+          }
+        ]
+      }
+    ],
+    "enablingConditions": [
+      {
+        "paramName": "type",
+        "paramValue": "pageView",
+        "type": "EQUALS"
+      }
+    ]
+  },
+  {
+    "type": "GROUP",
+    "name": "conversionGroup",
+    "subParams": [
+      {
+        "type": "SELECT",
+        "name": "useOptimisticScenario",
+        "displayName": "Use Optimistic Scenario",
+        "macrosInSelect": true,
+        "selectItems": [
+          {
+            "value": true,
+            "displayValue": "true"
+          },
+          {
+            "value": false,
+            "displayValue": "false"
+          }
+        ],
+        "simpleValueType": true,
+        "help": "The tag will call gtmOnSuccess() without waiting for a response from the API. This will speed up sGTM response time however your tag will always return the status fired successfully even in case it is not.",
+        "defaultValue": false
+      },
+      {
+        "type": "GROUP",
+        "name": "conversionDataGroup",
+        "displayName": "Conversion Data",
+        "groupStyle": "ZIPPY_OPEN_ON_PARAM",
+        "subParams": [
+          {
+            "type": "SELECT",
+            "name": "conversionType",
+            "displayName": "Conversion Type",
+            "macrosInSelect": false,
+            "selectItems": [
+              {
+                "value": "sale",
+                "displayValue": "Sale"
+              },
+              {
+                "value": "lead",
+                "displayValue": "Lead"
+              }
+            ],
+            "simpleValueType": true
+          },
+          {
+            "type": "SELECT",
+            "name": "autoMapData",
+            "displayName": "Auto-map Data",
+            "macrosInSelect": true,
+            "selectItems": [
+              {
+                "value": true,
+                "displayValue": "true"
+              },
+              {
+                "value": false,
+                "displayValue": "false"
+              }
+            ],
+            "simpleValueType": true,
+            "help": "If enabled, the tag will attempt to automatically map parameters from the Event Data.\n\u003cbr/\u003e\u003cbr/\u003e\nAny value you manually enter in a field below will always override the auto-mapped value.\n\u003cbr/\u003e\u003cbr/\u003e\nDefault mappings:\n\u003cul\u003e\n\u003cli\u003eOrder/Lead ID: \u003ci\u003eeventData.transaction_id\u003c/i\u003e\u003c/li\u003e\n\u003cli\u003eValue: \u003ci\u003eeventData.value\u003c/i\u003e\u003c/li\u003e\n\u003cli\u003eCurrency Code: \u003ci\u003eeventData.currency\u003c/i\u003e\n\u003cli\u003ePayment Type: \u003ci\u003eeventData. payment_type \u003c/i\u003e\n\u003cli\u003eVoucher: \u003ci\u003eeventData.coupon\u003c/i\u003e\n\u003cli\u003eIs New Costumer?: \u003ci\u003eeventData.customer_type\u003c/i\u003e (\"new\" \u003d true, \"returning\" \u003d false)\u003c/li\u003e\n\u003cli\u003eCart Details: \u003ci\u003eeventData.items\u003c/i\u003e\n\u003c/ul\u003e",
+            "defaultValue": true
+          },
+          {
+            "type": "TEXT",
+            "name": "effinityId",
+            "displayName": "Effinity ID",
+            "simpleValueType": true,
+            "help": "Your unique advertiser identifier as provided by Effinity.",
+            "valueValidators": [
+              {
+                "type": "NON_EMPTY"
+              }
+            ],
+            "valueHint": "612345687"
+          },
+          {
+            "type": "SELECT",
+            "name": "consentPerformance",
+            "displayName": "Consent",
+            "macrosInSelect": true,
+            "selectItems": [
+              {
+                "value": true,
+                "displayValue": "true"
+              },
+              {
+                "value": false,
+                "displayValue": "false"
+              }
+            ],
+            "simpleValueType": true,
+            "notSetText": "(not set)",
+            "help": "\u003cb\u003eRequired\u003c/b\u003e.\n\u003cbr/\u003e\u003cbr/\u003e\nInform whether or not the user has given consent.",
+            "valueValidators": [
+              {
+                "type": "NON_EMPTY"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "name": "orderOrLeadId",
+            "displayName": "Order/Lead ID",
+            "simpleValueType": true,
+            "help": "\u003cb\u003eRequired\u003c/b\u003e.\n\u003cbr/\u003e\u003cbr/\u003e\nThe unique booking or order reference that identifies the conversion.\n\u003cbr/\u003e\u003cbr/\u003e\nIf \u003ci\u003eAuto-map Data\u003c/i\u003e is enabled: \u003ci\u003eeventData.transaction_id\u003c/i\u003e."
+          },
+          {
+            "type": "TEXT",
+            "name": "value",
+            "displayName": "Value",
+            "simpleValueType": true,
+            "help": "\u003cb\u003eRequired\u003c/b\u003e. \n\u003cbr/\u003e\u003cbr/\u003e\nThe order amount excluding tax and shipping costs. No currency symbols (e.g. £) or thousand separators should be included. Only a decimal point can be used as a separator. \n\u003cbr/\u003e\u003cbr/\u003e\nIf \u003ci\u003eAuto-map Data\u003c/i\u003e is enabled: \u003ci\u003eeventData.value\u003c/i\u003e.",
+            "enablingConditions": [
+              {
+                "paramName": "conversionType",
+                "paramValue": "sale",
+                "type": "EQUALS"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "name": "currency",
+            "displayName": "Currency Code",
+            "simpleValueType": true,
+            "help": "\u003cb\u003eRequired\u003c/b\u003e.\n\u003cbr/\u003e\u003cbr/\u003e\nThe value must be a recognized currency code as per \u003ca href\u003d\"http://en.wikipedia.org/wiki/ISO_4217\"\u003eISO-4217 standard\u003c/a\u003e (e.g. EUR, USD, etc.).\n\u003cbr/\u003e\u003cbr/\u003e\nIf \u003ci\u003eAuto-map Data\u003c/i\u003e is enabled: \u003ci\u003eeventData.currency\u003c/i\u003e.",
+            "enablingConditions": [
+              {
+                "paramName": "conversionType",
+                "paramValue": "sale",
+                "type": "EQUALS"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "name": "voucher",
+            "displayName": "Voucher",
+            "simpleValueType": true,
+            "help": "\u003cb\u003eRequired\u003c/b\u003e.\n\u003cbr\u003e\u003cbr\u003e\nDiscount code used when ordering.\n\u003cbr\u003e\u003cbr\u003e\nIf \u003ci\u003eAuto-map Data\u003c/i\u003e is enabled: \u003ci\u003eeventData.coupon\u003c/i\u003e.",
+            "enablingConditions": [
+              {
+                "paramName": "conversionType",
+                "paramValue": "sale",
+                "type": "EQUALS"
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "name": "clickIdsGroup",
+            "displayName": "IDs",
+            "groupStyle": "ZIPPY_OPEN_ON_PARAM",
+            "subParams": [
+              {
+                "type": "TEXT",
+                "name": "idCompteur",
+                "displayName": "\"eff_cpt\" Landing Page URL Parameter Value",
+                "simpleValueType": true,
+                "help": "\u003cb\u003eRequired\u003c/b\u003e.\n\u003cbr/\u003e\u003cbr/\u003e\nTracking identifier used to attribute the conversion. Also known as ID Compteur (ID Counter).\n\u003cbr/\u003e\u003cbr/\u003e\nDefault: \u003ci\u003eeff_cpt\u003c/i\u003e landing page URL parameter value, or the value stored in the \u003ci\u003eeff_cid\u003c/i\u003e cookie by the PageView event of this tag."
+              },
+              {
+                "type": "TEXT",
+                "name": "effiId",
+                "displayName": "\"eff_sub1\" Landing Page URL Parameter Value",
+                "simpleValueType": true,
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nCustomized tracking identifier.\n\u003cbr/\u003e\u003cbr/\u003e\nDefault: \u003ci\u003eeff_sub1\u003c/i\u003e landing page URL parameter value, or the value stored in the \u003ci\u003eeff_cid\u003c/i\u003e cookie by the PageView event of this tag."
+              },
+              {
+                "type": "TEXT",
+                "name": "effiId2",
+                "displayName": "\"eff_sub2\" Landing Page URL Parameter Value",
+                "simpleValueType": true,
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nSecond customized tracking identifier.\n\u003cbr/\u003e\u003cbr/\u003e\nDefault: \u003ci\u003eeff_sub2\u003c/i\u003e landing page URL parameter value, or the value stored in the \u003ci\u003eeff_cid\u003c/i\u003e cookie by the PageView event of this tag."
+              },
+              {
+                "type": "TEXT",
+                "name": "prodId",
+                "displayName": "\"eff_pid\" Landing Page URL Parameter Value",
+                "simpleValueType": true,
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nUnique product identifier.\n\u003cbr/\u003e\u003cbr/\u003e\nDefault: \u003ci\u003eeff_pid\u003c/i\u003e landing page URL parameter value, or the value stored in the \u003ci\u003eeff_cid\u003c/i\u003e cookie by the PageView event of this tag."
+              },
+              {
+                "type": "TEXT",
+                "name": "effiPcid",
+                "displayName": "\"eff_pcid\" Landing Page URL Parameter Value",
+                "simpleValueType": true,
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nUnique identifier of a publisher content for the content commerce operations.\n\u003cbr/\u003e\u003cbr/\u003e\nDefault: \u003ci\u003eeff_pcid\u003c/i\u003e landing page URL parameter value, or the value stored in the \u003ci\u003eeff_cid\u003c/i\u003e cookie by the PageView event of this tag."
+              },
+              {
+                "type": "TEXT",
+                "name": "effiPcuid",
+                "displayName": "\"eff_pcuid\" Landing Page URL Parameter Value",
+                "simpleValueType": true,
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nUnique identifier of a redirection URL for the content commerce operations.\n\u003cbr/\u003e\u003cbr/\u003e\nDefault: \u003ci\u003eeff_pcuid\u003c/i\u003e landing page URL parameter value, or the value stored in the \u003ci\u003eeff_cid\u003c/i\u003e cookie by the PageView event of this tag."
+              },
+              {
+                "type": "TEXT",
+                "name": "effiParam1",
+                "displayName": "\"eff_pr1\" Landing Page URL Parameter Value",
+                "simpleValueType": true,
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nUnique identifier of a BAT.\n\u003cbr/\u003e\u003cbr/\u003e\nDefault: \u003ci\u003eeff_pr1\u003c/i\u003e landing page URL parameter value, or the value stored in the \u003ci\u003eeff_cid\u003c/i\u003e cookie by the PageView event of this tag."
+              }
+            ]
+          },
+          {
+            "type": "GROUP",
+            "name": "optionalConversionDataGroup",
+            "displayName": "Optional Conversion Data",
+            "groupStyle": "ZIPPY_OPEN_ON_PARAM",
+            "subParams": [
+              {
+                "type": "TEXT",
+                "name": "paymentType",
+                "displayName": "Payment Type",
+                "simpleValueType": true,
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nMethod of payment for the order.\n\u003cbr/\u003e\u003cbr/\u003e\nIf \u003ci\u003eAuto-map Data\u003c/i\u003e is enabled: \u003ci\u003eeventData. payment_type \u003c/i\u003e",
+                "enablingConditions": [
+                  {
+                    "paramName": "conversionType",
+                    "paramValue": "sale",
+                    "type": "EQUALS"
+                  }
+                ]
+              },
+              {
+                "type": "SELECT",
+                "name": "newCustomer",
+                "displayName": "Is New Customer?",
+                "macrosInSelect": true,
+                "selectItems": [
+                  {
+                    "value": true,
+                    "displayValue": "true"
+                  },
+                  {
+                    "value": false,
+                    "displayValue": "false"
+                  }
+                ],
+                "simpleValueType": true,
+                "notSetText": "(not set)",
+                "help": "Optional. \n\u003cbr/\u003e\u003cbr/\u003e\nIf \u003ci\u003eAuto-map Data\u003c/i\u003e is enabled: \u003ci\u003eeventData.customer_type\u003c/i\u003e (\"new\" \u003d true, \"returning\" \u003d false)",
+                "enablingConditions": [
+                  {
+                    "paramName": "conversionType",
+                    "paramValue": "sale",
+                    "type": "EQUALS"
+                  }
+                ]
+              },
+              {
+                "type": "SELECT",
+                "name": "cart",
+                "displayName": "Cart Details",
+                "macrosInSelect": true,
+                "selectItems": [],
+                "simpleValueType": true,
+                "notSetText": "(not set)",
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nArray of products for Cart Details tracking.\n\u003cbr/\u003e\u003c/br\u003e\nThe expected format is an array of objects, each object is a product containing the properties: \n\u003cbr/\u003e\u003cbr/\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ci\u003eid\u003c/i\u003e or \u003ci\u003eitem_id\u003c/i\u003e\u003c/li\u003e\u003c/li\u003e\n\u003cli\u003e\u003ci\u003enom\u003c/i\u003e or \u003ci\u003eitem_name\u003c/i\u003e\u003c/li\u003e\n\u003cli\u003e\u003ci\u003eprice\u003c/i\u003e\u003c/li\u003e\n\u003cli\u003e\u003ci\u003equantity\u003c/i\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr/\u003e\nIf \u003ci\u003eAuto-map Data\u003c/i\u003e is enabled: \u003ci\u003eeventData.items\u003c/i\u003e.",
+                "enablingConditions": [
+                  {
+                    "paramName": "conversionType",
+                    "paramValue": "sale",
+                    "type": "EQUALS"
+                  }
+                ]
+              },
+              {
+                "type": "SELECT",
+                "name": "attribution",
+                "displayName": "Attribution Type",
+                "macrosInSelect": true,
+                "selectItems": [
+                  {
+                    "value": 0,
+                    "displayValue": "0"
+                  },
+                  {
+                    "value": 1,
+                    "displayValue": "1"
+                  },
+                  {
+                    "value": 2,
+                    "displayValue": "2"
+                  }
+                ],
+                "simpleValueType": true,
+                "notSetText": "(not set)",
+                "help": "Optional. \n\u003cbr/\u003e\u003cbr/\u003e\n\u003cul\u003e\n\u003cli\u003e0: Effinity doesn\u0027t have participation in the conversion journey.\u003c/li\u003e\n\u003cli\u003e1: Effinity is the last touchpoint in the conversion journey.\u003c/li\u003e\n\u003cli\u003e2: Effinity is not the last touchpoint in the conversion journey, but is part of it.\u003c/li\u003e\n\u003c/ul\u003e"
+              },
+              {
+                "type": "TEXT",
+                "name": "date",
+                "displayName": "Conversion Date",
+                "simpleValueType": true,
+                "help": "Optional.\n\u003cbr/\u003e\u003cbr/\u003e\nThe date of when the sale/lead occurred.\n\u003cbr/\u003e\u003cbr/\u003e\nAccepted formats:\n\u003cul\u003e\n\u003cli\u003eYYYY-MM-DD: \"2025-12-31\"\u003c/li\u003e\n\u003cli\u003eYYYYMMDDThhmmss: \"20251231T235946\"\u003c/li\u003e\n\u003c/ul\u003e"
+              },
+              {
+                "type": "SIMPLE_TABLE",
+                "name": "customFields",
+                "displayName": "Custom Fields",
+                "simpleTableColumns": [
+                  {
+                    "defaultValue": "",
+                    "displayName": "Custom Field",
+                    "name": "name",
+                    "type": "SELECT",
+                    "selectItems": [
+                      {
+                        "value": "ref2",
+                        "displayValue": "ref2"
+                      },
+                      {
+                        "value": "ref3",
+                        "displayValue": "ref3"
+                      },
+                      {
+                        "value": "ref4",
+                        "displayValue": "ref4"
+                      },
+                      {
+                        "value": "ref5",
+                        "displayValue": "ref5"
+                      },
+                      {
+                        "value": "ref6",
+                        "displayValue": "ref6"
+                      },
+                      {
+                        "value": "ref7",
+                        "displayValue": "ref7"
+                      },
+                      {
+                        "value": "ref8",
+                        "displayValue": "ref8"
+                      },
+                      {
+                        "value": "ref9",
+                        "displayValue": "ref9"
+                      },
+                      {
+                        "value": "ref10",
+                        "displayValue": "ref10"
+                      },
+                      {
+                        "value": "ref11",
+                        "displayValue": "ref11"
+                      },
+                      {
+                        "value": "ref12",
+                        "displayValue": "ref12"
+                      },
+                      {
+                        "value": "ref13",
+                        "displayValue": "ref13"
+                      },
+                      {
+                        "value": "ref14",
+                        "displayValue": "ref14"
+                      },
+                      {
+                        "value": "ref15",
+                        "displayValue": "ref15"
+                      },
+                      {
+                        "value": "ref16",
+                        "displayValue": "ref16"
+                      },
+                      {
+                        "value": "ref17",
+                        "displayValue": "ref17"
+                      },
+                      {
+                        "value": "ref18",
+                        "displayValue": "ref18"
+                      },
+                      {
+                        "value": "ref19",
+                        "displayValue": "ref19"
+                      },
+                      {
+                        "value": "ref20",
+                        "displayValue": "ref20"
+                      },
+                      {
+                        "value": "ref21",
+                        "displayValue": "ref21"
+                      },
+                      {
+                        "value": "ref22",
+                        "displayValue": "ref22"
+                      },
+                      {
+                        "value": "ref23",
+                        "displayValue": "ref23"
+                      },
+                      {
+                        "value": "ref24",
+                        "displayValue": "ref24"
+                      },
+                      {
+                        "value": "ref25",
+                        "displayValue": "ref25"
+                      },
+                      {
+                        "value": "ref26",
+                        "displayValue": "ref26"
+                      },
+                      {
+                        "value": "ref27",
+                        "displayValue": "ref27"
+                      },
+                      {
+                        "value": "ref28",
+                        "displayValue": "ref28"
+                      },
+                      {
+                        "value": "ref29",
+                        "displayValue": "ref29"
+                      },
+                      {
+                        "value": "ref30",
+                        "displayValue": "ref30"
+                      }
+                    ],
+                    "isUnique": true,
+                    "valueValidators": [
+                      {
+                        "type": "NON_EMPTY"
+                      }
+                    ]
+                  },
+                  {
+                    "defaultValue": "",
+                    "displayName": "Custom Field Value",
+                    "name": "value",
+                    "type": "TEXT",
+                    "valueValidators": [
+                      {
+                        "type": "NON_EMPTY"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "RADIO",
+                "name": "radioButtonGroup1",
+                "displayName": "",
+                "radioItems": [],
+                "simpleValueType": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "enablingConditions": [
+      {
+        "paramName": "type",
+        "paramValue": "conversion",
+        "type": "EQUALS"
+      }
+    ]
+  },
+  {
+    "type": "GROUP",
+    "name": "logsGroup",
+    "displayName": "Logs Settings",
+    "groupStyle": "ZIPPY_CLOSED",
+    "subParams": [
+      {
+        "type": "RADIO",
+        "name": "logType",
+        "radioItems": [
+          {
+            "value": "no",
+            "displayValue": "Do not log"
+          },
+          {
+            "value": "debug",
+            "displayValue": "Log to console during debug and preview"
+          },
+          {
+            "value": "always",
+            "displayValue": "Always log to console"
+          }
+        ],
+        "simpleValueType": true,
+        "defaultValue": "debug"
+      }
+    ],
+    "enablingConditions": [
+      {
+        "paramName": "type",
+        "paramValue": "conversion",
+        "type": "EQUALS"
+      }
+    ]
+  },
+  {
+    "displayName": "BigQuery Logs Settings",
+    "name": "bigQueryLogsGroup",
+    "groupStyle": "ZIPPY_CLOSED",
+    "type": "GROUP",
+    "subParams": [
+      {
+        "type": "RADIO",
+        "name": "bigQueryLogType",
+        "radioItems": [
+          {
+            "value": "no",
+            "displayValue": "Do not log to BigQuery"
+          },
+          {
+            "value": "always",
+            "displayValue": "Log to BigQuery"
+          }
+        ],
+        "simpleValueType": true,
+        "defaultValue": "no"
+      },
+      {
+        "type": "GROUP",
+        "name": "logsBigQueryConfigGroup",
+        "groupStyle": "NO_ZIPPY",
+        "subParams": [
+          {
+            "type": "TEXT",
+            "name": "logBigQueryProjectId",
+            "displayName": "BigQuery Project ID",
+            "simpleValueType": true,
+            "help": "Optional.  \u003cbr/\u003e\u003cbr/\u003e  If omitted, it will be retrieved from the environment variable \u003cI\u003eGOOGLE_CLOUD_PROJECT\u003c/i\u003e where the server container is running. If the server container is running on Google Cloud, \u003cI\u003eGOOGLE_CLOUD_PROJECT\u003c/i\u003e will already be set to the Google Cloud project\u0027s ID."
+          },
+          {
+            "type": "TEXT",
+            "name": "logBigQueryDatasetId",
+            "displayName": "BigQuery Dataset ID",
+            "simpleValueType": true,
+            "valueValidators": [
+              {
+                "type": "NON_EMPTY"
+              }
+            ]
+          },
+          {
+            "type": "TEXT",
+            "name": "logBigQueryTableId",
+            "displayName": "BigQuery Table ID",
+            "simpleValueType": true,
+            "valueValidators": [
+              {
+                "type": "NON_EMPTY"
+              }
+            ]
+          }
+        ],
+        "enablingConditions": [
+          {
+            "paramName": "bigQueryLogType",
+            "paramValue": "always",
+            "type": "EQUALS"
+          }
+        ]
+      }
+    ],
+    "enablingConditions": [
+      {
+        "paramName": "type",
+        "paramValue": "conversion",
+        "type": "EQUALS"
+      }
+    ]
+  },
+  {
+    "type": "GROUP",
+    "name": "tagExecutionConsentSettingsGroup",
+    "displayName": "Tag Execution Consent Settings",
+    "groupStyle": "ZIPPY_CLOSED",
+    "subParams": [
+      {
+        "type": "RADIO",
+        "name": "adStorageConsent",
+        "radioItems": [
+          {
+            "value": "optional",
+            "displayValue": "Send data always"
+          },
+          {
+            "value": "required",
+            "displayValue": "Send data in case marketing consent given",
+            "help": "Aborts the tag execution if marketing consent (\u003ci\u003ead_storage\u003c/i\u003e Google Consent Mode or Stape\u0027s Data Tag parameter) is not given."
+          }
+        ],
+        "simpleValueType": true,
+        "defaultValue": "optional"
+      }
+    ]
+  }
+]
+
+
+___SANDBOXED_JS_FOR_SERVER___
+
+const BigQuery = require('BigQuery');
+const encodeUriComponent = require('encodeUriComponent');
+const getAllEventData = require('getAllEventData');
+const getContainerVersion = require('getContainerVersion');
+const getCookieValues = require('getCookieValues');
+const getRequestHeader = require('getRequestHeader');
+const getTimestampMillis = require('getTimestampMillis');
+const getType = require('getType');
+const JSON = require('JSON');
+const logToConsole = require('logToConsole');
+const makeInteger = require('makeInteger');
+const makeString = require('makeString');
+const Object = require('Object');
+const parseUrl = require('parseUrl');
+const sendHttpRequest = require('sendHttpRequest');
+const setCookie = require('setCookie');
+
+/*==============================================================================
+==============================================================================*/
+
+const eventData = getAllEventData();
+const useOptimisticScenario = isUIFieldTrue(data.useOptimisticScenario);
+
+if (!isConsentGivenOrNotRequired(data, eventData)) {
+  return data.gtmOnSuccess();
+}
+
+const url = getUrl(eventData);
+if (url && url.lastIndexOf('https://gtm-msr.appspot.com/', 0) === 0) {
+  return data.gtmOnSuccess();
+}
+
+const actionHandlers = {
+  pageView: handlePageViewEvent,
+  conversion: handleConversionEvent
+};
+
+const handler = actionHandlers[data.type];
+if (handler) {
+  handler(data, eventData);
+} else {
+  return data.gtmOnFailure();
+}
+
+if (useOptimisticScenario) {
+  return data.gtmOnSuccess();
+}
+
+/*==============================================================================
+  Vendor related functions
+==============================================================================*/
+
+function getIds(eventData) {
+  const idsFromUrl = parseIdsFromUrl(eventData);
+  if (objHasProps(idsFromUrl)) return idsFromUrl;
+
+  const idsStringFromCookie = getCookieValues('eff_cid')[0];
+  if (idsStringFromCookie) return JSON.parse(idsStringFromCookie);
+}
+
+function parseIdsFromUrl(eventData) {
+  const url = getUrl(eventData);
+  if (!url) return;
+
+  const urlSearchParams = parseUrl(url).searchParams;
+  if (!urlSearchParams.eff_cpt) return;
+
+  const idsOfInterestMap = {
+    eff_cpt: 'id_compteur',
+    eff_sub1: 'effi_id',
+    eff_sub2: 'effi_id2',
+    eff_pid: 'prod_id',
+    eff_pcid: 'effi_pcid',
+    eff_pcuid: 'effi_pcuid',
+    eff_pr1: 'effi_param1'
+  };
+
+  const ids = {}; // It will contain at least 'eff_cpt' when returned.
+
+  Object.entries(idsOfInterestMap).forEach((entry) => {
+    const fromId = entry[0];
+    const toId = entry[1];
+    const idValue = urlSearchParams[fromId];
+    if (!isValidValue(idValue)) return;
+    ids[toId] = idValue;
+  });
+
+  return ids;
+}
+
+function handlePageViewEvent(data, eventData) {
+  const url = eventData.page_location || getRequestHeader('referer');
+  if (!url) return data.gtmOnSuccess();
+
+  const cookieOptions = {
+    domain: data.cookieDomain || 'auto',
+    samesite: data.cookieSameSite || 'none',
+    path: '/',
+    secure: true,
+    httpOnly: !!data.cookieHttpOnly,
+    'max-age': 60 * 60 * 24 * makeInteger(data.cookieExpiration || 30)
+  };
+
+  const ids = parseIdsFromUrl(eventData);
+  if (objHasProps(ids)) {
+    setCookie('eff_cid', JSON.stringify(ids), cookieOptions, false);
+  }
+
+  return data.gtmOnSuccess();
+}
+
+function addProductsData(items, requestData) {
+  if (getType(items) === 'array' && items.length > 0) {
+    const cartDetails = items.map((i) => {
+      const item = {};
+      if (i.item_id || i.id) item.id = i.item_id || i.id;
+      if (i.item_name || i.nom) item.name = i.item_name || i.nom;
+      if (isValidValue(i.price)) item.price = i.price;
+      if (i.quantity) item.quantity = i.quantity;
+      return item;
+    });
+
+    requestData.cart_detail = JSON.stringify(cartDetails);
+  }
+
+  return requestData;
+}
+
+function mapRequestData(data, eventData) {
+  const requestData = {
+    id: data.effinityId,
+    origin: 'stape_s2s',
+    ref: data.orderOrLeadId
+  };
+
+  if (isUIFieldTrue(data.autoMapData)) {
+    if (eventData.transaction_id) requestData.ref = eventData.transaction_id;
+    if (data.conversionType === 'sale') {
+      if (eventData.value) requestData.montant = eventData.value;
+      if (eventData.currency) requestData.monnaie = eventData.currency;
+      if (eventData.coupon) requestData.voucher = eventData.coupon;
+      if (eventData.payment_type) requestData.payment = eventData.payment_type;
+      if (eventData.customer_type) {
+        requestData.newcustomer = eventData.customer_type === 'new' ? '1' : '0';
+      }
+      if (eventData.items) addProductsData(eventData.items, requestData);
+    }
+  }
+
+  if (data.conversionType === 'sale') {
+    if (isValidValue(data.value)) requestData.montant = data.value;
+    if (data.currency) requestData.monnaie = data.currency;
+    if (data.voucher) requestData.voucher = data.voucher;
+    if (data.paymentType) requestData.payment = data.paymentType;
+    if (isValidValue(data.newCustomer)) {
+      requestData.newcustomer = isUIFieldTrue(data.newCustomer) ? '1' : '0';
+    }
+    if (data.cart) addProductsData(data.cart, requestData);
+  }
+
+  if (isValidValue(data.consentPerformance)) {
+    requestData.consent_performance = isUIFieldTrue(data.consentPerformance) ? '1' : '0';
+  }
+  if (isValidValue(data.attribution)) requestData.attrib = data.attribution;
+  if (data.date) requestData.date = data.date;
+
+  if (data.customFields) {
+    data.customFields.forEach((field) => {
+      const value = field.value;
+      if (isValidValue(value)) requestData[field.name] = value;
+    });
+  }
+
+  const ids = getIds(eventData);
+  if (objHasProps(ids)) {
+    for (const id in ids) requestData[id] = ids[id];
+  }
+
+  if (data.idCompteur) requestData.id_compteur = data.idCompteur;
+  if (data.effiId) requestData.effi_id = data.effiId;
+  if (data.effiId2) requestData.effi_id2 = data.effiId2;
+  if (data.prodId) requestData.prod_id = data.prodId;
+  if (data.effiPcid) requestData.effi_pcid = data.effiPcid;
+  if (data.effiPcuid) requestData.effi_pcuid = data.effiPcuid;
+  if (data.effiParam1) requestData.effi_param1 = data.effiParam1;
+
+  return requestData;
+}
+
+function generateRequestBaseUrl(data) {
+  const baseUrl = 'https://track.effiliation.com/servlet/effi.';
+  const pathByConversionType = {
+    sale: 'revenuemobile',
+    lead: 'leadmobile'
+  };
+
+  return baseUrl + pathByConversionType[data.conversionType];
+}
+
+function generateRequestOptions() {
+  const options = {
+    method: 'GET'
+  };
+
+  return options;
+}
+
+function generateRequestUrlParameters(requestData) {
+  const requestParametersList = [];
+  for (const key in requestData) {
+    const value = requestData[key];
+    requestParametersList.push(enc(key) + '=' + enc(value));
+  }
+
+  return requestParametersList.join('&');
+}
+
+function sendRequest(data, requestData) {
+  const requestUrl = generateRequestBaseUrl(data) + '?' + generateRequestUrlParameters(requestData);
+  const requestOptions = generateRequestOptions(data);
+
+  log({
+    Name: 'Effinity',
+    Type: 'Request',
+    EventName: data.conversionType,
+    RequestMethod: requestOptions.method,
+    RequestUrl: requestUrl
+  });
+
+  return sendHttpRequest(
+    requestUrl,
+    (statusCode, headers, body) => {
+      log({
+        Name: 'Effinity',
+        Type: 'Response',
+        EventName: data.type,
+        ResponseStatusCode: statusCode,
+        ResponseHeaders: headers,
+        ResponseBody: body
+      });
+
+      if (!useOptimisticScenario) {
+        if (statusCode >= 200 && statusCode < 300) data.gtmOnSuccess();
+        else data.gtmOnFailure();
+      }
+    },
+    requestOptions
+  );
+}
+
+function areThereRequiredParametersMissing(data, requestData) {
+  const requiredCommonFieldsByConversionType = {
+    sale: [
+      'consent_performance',
+      'id',
+      'id_compteur',
+      'monnaie',
+      'montant',
+      'origin',
+      'ref',
+      'voucher'
+    ],
+    lead: ['consent_performance', 'id', 'id_compteur', 'origin', 'ref']
+  };
+
+  const requiredCommonFields = requiredCommonFieldsByConversionType[data.conversionType];
+  const anyCommonFieldMissing = requiredCommonFields.some((p) => !isValidValue(requestData[p]));
+  if (anyCommonFieldMissing) return requiredCommonFields;
+}
+
+function handleConversionEvent(data, eventData) {
+  const requestData = mapRequestData(data, eventData);
+
+  const missingParameters = areThereRequiredParametersMissing(data, requestData);
+  if (missingParameters) {
+    log({
+      Name: 'Effinity',
+      Type: 'Message',
+      EventName: data.type,
+      Message: 'Request was not sent for conversion type: ' + data.conversionType,
+      Reason: 'One or more required parameters are missing: ' + missingParameters.join(' or ')
+    });
+
+    return data.gtmOnFailure();
+  }
+  return sendRequest(data, requestData);
+}
+
+/*==============================================================================
+  Helpers
+==============================================================================*/
+
+function getUrl(eventData) {
+  return eventData.page_location || eventData.page_referrer || getRequestHeader('referer');
+}
+
+function objHasProps(obj) {
+  return getType(obj) === 'object' && Object.keys(obj).length > 0;
+}
+
+function isUIFieldTrue(field) {
+  return [true, 'true', 1, '1'].indexOf(field) !== -1;
+}
+
+function isValidValue(value) {
+  const valueType = getType(value);
+  return valueType !== 'null' && valueType !== 'undefined' && value !== '';
+}
+
+function enc(data) {
+  if (data === undefined || data === null) data = '';
+  return encodeUriComponent(makeString(data));
+}
+
+function isConsentGivenOrNotRequired(data, eventData) {
+  if (data.adStorageConsent !== 'required') return true;
+  if (eventData.consent_state) return !!eventData.consent_state.ad_storage;
+  const xGaGcs = eventData['x-ga-gcs'] || ''; // x-ga-gcs is a string like "G110"
+  return xGaGcs[2] === '1';
+}
+
+function log(rawDataToLog) {
+  const logDestinationsHandlers = {};
+  if (determinateIsLoggingEnabled()) logDestinationsHandlers.console = logConsole;
+  if (determinateIsLoggingEnabledForBigQuery()) logDestinationsHandlers.bigQuery = logToBigQuery;
+
+  rawDataToLog.TraceId = getRequestHeader('trace-id');
+
+  const keyMappings = {
+    // No transformation for Console is needed.
+    bigQuery: {
+      Name: 'tag_name',
+      Type: 'type',
+      TraceId: 'trace_id',
+      EventName: 'event_name',
+      RequestMethod: 'request_method',
+      RequestUrl: 'request_url',
+      RequestBody: 'request_body',
+      ResponseStatusCode: 'response_status_code',
+      ResponseHeaders: 'response_headers',
+      ResponseBody: 'response_body'
+    }
+  };
+
+  for (const logDestination in logDestinationsHandlers) {
+    const handler = logDestinationsHandlers[logDestination];
+    if (!handler) continue;
+
+    const mapping = keyMappings[logDestination];
+    const dataToLog = mapping ? {} : rawDataToLog;
+
+    if (mapping) {
+      for (const key in rawDataToLog) {
+        const mappedKey = mapping[key] || key;
+        dataToLog[mappedKey] = rawDataToLog[key];
+      }
+    }
+
+    handler(dataToLog);
+  }
+}
+
+function logConsole(dataToLog) {
+  logToConsole(JSON.stringify(dataToLog));
+}
+
+function logToBigQuery(dataToLog) {
+  const connectionInfo = {
+    projectId: data.logBigQueryProjectId,
+    datasetId: data.logBigQueryDatasetId,
+    tableId: data.logBigQueryTableId
+  };
+
+  dataToLog.timestamp = getTimestampMillis();
+
+  ['request_body', 'response_headers', 'response_body'].forEach((p) => {
+    dataToLog[p] = JSON.stringify(dataToLog[p]);
+  });
+
+  BigQuery.insert(connectionInfo, [dataToLog], { ignoreUnknownValues: true });
+}
+
+function determinateIsLoggingEnabled() {
+  const containerVersion = getContainerVersion();
+  const isDebug = !!(
+    containerVersion &&
+    (containerVersion.debugMode || containerVersion.previewMode)
+  );
+
+  if (!data.logType) {
+    return isDebug;
+  }
+
+  if (data.logType === 'no') {
+    return false;
+  }
+
+  if (data.logType === 'debug') {
+    return isDebug;
+  }
+
+  return data.logType === 'always';
+}
+
+function determinateIsLoggingEnabledForBigQuery() {
+  if (data.bigQueryLogType === 'no') return false;
+  return data.bigQueryLogType === 'always';
+}
+
+
+___SERVER_PERMISSIONS___
+
+[
+  {
+    "instance": {
+      "key": {
+        "publicId": "read_request",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "headerWhitelist",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 3,
+                "mapKey": [
+                  {
+                    "type": 1,
+                    "string": "headerName"
+                  }
+                ],
+                "mapValue": [
+                  {
+                    "type": 1,
+                    "string": "trace-id"
+                  }
+                ]
+              },
+              {
+                "type": 3,
+                "mapKey": [
+                  {
+                    "type": 1,
+                    "string": "headerName"
+                  }
+                ],
+                "mapValue": [
+                  {
+                    "type": 1,
+                    "string": "referer"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "key": "headersAllowed",
+          "value": {
+            "type": 8,
+            "boolean": true
+          }
+        },
+        {
+          "key": "requestAccess",
+          "value": {
+            "type": 1,
+            "string": "specific"
+          }
+        },
+        {
+          "key": "headerAccess",
+          "value": {
+            "type": 1,
+            "string": "specific"
+          }
+        },
+        {
+          "key": "queryParameterAccess",
+          "value": {
+            "type": 1,
+            "string": "any"
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "get_cookies",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "cookieAccess",
+          "value": {
+            "type": 1,
+            "string": "specific"
+          }
+        },
+        {
+          "key": "cookieNames",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 1,
+                "string": "eff_cid"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "logging",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "environments",
+          "value": {
+            "type": 1,
+            "string": "all"
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "read_container_data",
+        "versionId": "1"
+      },
+      "param": []
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "set_cookies",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "allowedCookies",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 3,
+                "mapKey": [
+                  {
+                    "type": 1,
+                    "string": "name"
+                  },
+                  {
+                    "type": 1,
+                    "string": "domain"
+                  },
+                  {
+                    "type": 1,
+                    "string": "path"
+                  },
+                  {
+                    "type": 1,
+                    "string": "secure"
+                  },
+                  {
+                    "type": 1,
+                    "string": "session"
+                  }
+                ],
+                "mapValue": [
+                  {
+                    "type": 1,
+                    "string": "eff_cid"
+                  },
+                  {
+                    "type": 1,
+                    "string": "*"
+                  },
+                  {
+                    "type": 1,
+                    "string": "*"
+                  },
+                  {
+                    "type": 1,
+                    "string": "any"
+                  },
+                  {
+                    "type": 1,
+                    "string": "any"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "read_event_data",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "eventDataAccess",
+          "value": {
+            "type": 1,
+            "string": "any"
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "send_http",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "allowedUrls",
+          "value": {
+            "type": 1,
+            "string": "specific"
+          }
+        },
+        {
+          "key": "urls",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 1,
+                "string": "https://track.effiliation.com/servlet/*"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  },
+  {
+    "instance": {
+      "key": {
+        "publicId": "access_bigquery",
+        "versionId": "1"
+      },
+      "param": [
+        {
+          "key": "allowedTables",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 3,
+                "mapKey": [
+                  {
+                    "type": 1,
+                    "string": "projectId"
+                  },
+                  {
+                    "type": 1,
+                    "string": "datasetId"
+                  },
+                  {
+                    "type": 1,
+                    "string": "tableId"
+                  },
+                  {
+                    "type": 1,
+                    "string": "operation"
+                  }
+                ],
+                "mapValue": [
+                  {
+                    "type": 1,
+                    "string": "*"
+                  },
+                  {
+                    "type": 1,
+                    "string": "*"
+                  },
+                  {
+                    "type": 1,
+                    "string": "*"
+                  },
+                  {
+                    "type": 1,
+                    "string": "write"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "clientAnnotations": {
+      "isEditedByUser": true
+    },
+    "isRequired": true
+  }
+]
+
+
+___TESTS___
+
+scenarios:
+- name: '[Page View] Tag is not executed when Tag Execution Consent is Denied'
+  code: |-
+    setGetAllEventData({
+      'x-ga-gcs': 'G100'
+    });
+    setAllMockDataByEventType('pageView', {
+      adStorageConsent: 'required'
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+    assertApi('getCookieValues').wasNotCalled();
+    assertApi('setCookie').wasNotCalled();
+    assertApi('sendHttpRequest').wasNotCalled();
+- name: '[Page View] Click ID cookie is NOT set if URL doesn''t contain it'
+  code: |-
+    setAllMockDataByEventType('pageView');
+
+    mock('getAllEventData', {
+      page_location: 'https://example.com/'
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+    assertApi('setCookie').wasNotCalled();
+- name: '[Page View] Click ID cookie is set if URL contains it'
+  code: |-
+    setAllMockDataByEventType('pageView');
+
+    const expectedCookieOptions = {
+      domain: 'auto',
+      samesite: 'none',
+      path: '/',
+      secure: true,
+      httpOnly: false,
+      'max-age': 2592000
+    };
+
+    mock('getAllEventData', {
+      page_location: 'https://example.com/?utm_source=effinity&eff_cpt=eff_cptValue&eff_sub1=eff_sub1Value&eff_sub2=eff_sub2Value&eff_pid=eff_pidValue&eff_pcid=eff_pcidValue&eff_pcuid=eff_pcuidValue&eff_pr1=eff_pr1Value'
+    });
+
+    mock('setCookie', () => {
+      const cookieName = arguments[0];
+      const cookieValue = arguments[1];
+      const cookieOptions = arguments[2];
+      const noEncode = arguments[3];
+      assertThat(cookieName).isEqualTo('eff_cid');
+      assertThat(JSON.parse(cookieValue)).isEqualTo({
+        id_compteur: 'eff_cptValue',
+        effi_id: 'eff_sub1Value',
+        effi_id2: 'eff_sub2Value',
+        prod_id: 'eff_pidValue',
+        effi_pcid: 'eff_pcidValue',
+        effi_pcuid: 'eff_pcuidValue',
+        effi_param1: 'eff_pr1Value'
+      });
+      assertThat(cookieOptions).isEqualTo(expectedCookieOptions);
+      assertThat(noEncode).isFalse();
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Page View] Click ID Cookie settings are overwritten'
+  code: |-
+    const cookieDomain = 'example.com';
+    const cookieHttpOnly = false;
+    const maxAgeDays = 1;
+
+    const expectedOverwrittenCookieOptions = {
+      domain: cookieDomain,
+      samesite: 'lax',
+      path: '/',
+      secure: true,
+      httpOnly: cookieHttpOnly,
+      'max-age': 60 * 60 * 24 * maxAgeDays
+    };
+
+    setAllMockDataByEventType('pageView', {
+      cookieDomain: cookieDomain,
+      cookieSameSite: 'lax',
+      cookieExpiration: maxAgeDays,
+      cookieHttpOnly: cookieHttpOnly
+    });
+
+    mock('getAllEventData', {
+      page_location: 'https://example.com/?utm_source=effinity&eff_cpt=eff_cptValue&eff_sub1=eff_sub1Value&eff_sub2=eff_sub2Value&eff_pid=eff_pidValue&eff_pcid=eff_pcidValue&eff_pcuid=eff_pcuidValue&eff_pr1=eff_pr1Value'});
+
+    mock('setCookie', () => {
+      const cookieName = arguments[0];
+      const cookieValue = arguments[1];
+      const cookieOptions = arguments[2];
+      const noEncode = arguments[3];
+      assertThat(cookieName).isEqualTo('eff_cid');
+      assertThat(JSON.parse(cookieValue)).isEqualTo({
+        id_compteur: 'eff_cptValue',
+        effi_id: 'eff_sub1Value',
+        effi_id2: 'eff_sub2Value',
+        prod_id: 'eff_pidValue',
+        effi_pcid: 'eff_pcidValue',
+        effi_pcuid: 'eff_pcuidValue',
+        effi_param1: 'eff_pr1Value'
+      });
+      assertThat(cookieOptions).isEqualTo(expectedOverwrittenCookieOptions);
+      assertThat(noEncode).isFalse();
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Conversion] Tag is not executed when Tag Execution Consent is Denied'
+  code: |-
+    setGetAllEventData({
+      'x-ga-gcs': 'G100'
+    });
+    setAllMockDataByEventType('conversion_sale', {
+      adStorageConsent: 'required'
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+    assertApi('getCookieValues').wasNotCalled();
+    assertApi('setCookie').wasNotCalled();
+    assertApi('sendHttpRequest').wasNotCalled();
+- name: '[Conversion Lead] Request is not sent if required parameters are missing'
+  code: "const originalMockData = setAllMockDataByEventType('conversion_lead');\n\n\
+    [\n  { consentPerformance: undefined },\n  { effinityId: undefined },\n  { idCompteur:\
+    \ undefined },\n  { orderOrLeadId: undefined }\n].forEach((scenario) => {\n  const\
+    \ copyMockData = JSON.parse(JSON.stringify(originalMockData));\n  mergeObj(copyMockData,\
+    \ scenario);\n  \n  runCode(copyMockData);\n  \n  assertApi('sendHttpRequest').wasNotCalled();\n\
+    \  assertApi('gtmOnSuccess').wasNotCalled();\n  assertApi('gtmOnFailure').wasCalled();\n\
+    });\n"
+- name: '[Conversion Sale] Request is not sent if required parameters are missing'
+  code: "const originalMockData = setAllMockDataByEventType('conversion_sale');\n\n\
+    [\n  { consentPerformance: undefined },\n  { effinityId: undefined },\n  { idCompteur:\
+    \ undefined },\n  { orderOrLeadId: undefined },\n  { currency: undefined },\n\
+    \  { value: undefined },\n  { voucher: undefined }\n].forEach((scenario) => {\n\
+    \  const copyMockData = JSON.parse(JSON.stringify(originalMockData));\n  mergeObj(copyMockData,\
+    \ scenario);\n  \n  runCode(copyMockData);\n  \n  assertApi('sendHttpRequest').wasNotCalled();\n\
+    \  assertApi('gtmOnSuccess').wasNotCalled();\n  assertApi('gtmOnFailure').wasCalled();\n\
+    });\n"
+- name: '[Conversion Lead] Request Base URL is correctly built'
+  code: |-
+    setAllMockDataByEventType('conversion_lead');
+
+    mock('sendHttpRequest', (requestUrl, callback, requestOptions, requestBody) => {
+      const parsedUrl = parseUrl(requestUrl);
+      assertThat(parsedUrl.origin + parsedUrl.pathname).isEqualTo('https://track.effiliation.com/servlet/effi.leadmobile');
+      callback(200);
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Conversion Sale] Request Base URL is correctly built'
+  code: |-
+    setAllMockDataByEventType('conversion_sale');
+
+    mock('sendHttpRequest', (requestUrl, callback, requestOptions, requestBody) => {
+      const parsedUrl = parseUrl(requestUrl);
+      assertThat(parsedUrl.origin + parsedUrl.pathname).isEqualTo('https://track.effiliation.com/servlet/effi.revenuemobile');
+      callback(200);
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Conversion] Request Options is correctly built'
+  code: |-
+    setAllMockDataByEventType('conversion_sale');
+
+    mock('sendHttpRequest', (requestUrl, callback, requestOptions, requestBody) => {
+      assertThat(requestOptions).isEqualTo({
+        method: 'GET'
+      });
+      callback(200);
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Conversion Lead] [Data from UI fields] Request is successfully built and
+    sent'
+  code: |-
+    setAllMockDataByEventType('conversion_lead', {
+      autoMapData: false
+    });
+
+    mock('sendHttpRequest', (requestUrl, callback, requestOptions, requestBody) => {
+      assertThat(requestUrl).isEqualTo('https://track.effiliation.com/servlet/effi.leadmobile?id=effinityId&origin=stape_s2s&ref=leadId&consent_performance=1&attrib=2&date=2025-12-31&ref2=123&id_compteur=eff_cpt&effi_id=eff_sub1&effi_id2=eff_sub2&prod_id=eff_pid&effi_pcid=eff_pcid&effi_pcuid=eff_pcuid&effi_param1=eff_pr1');
+      callback(200);
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Conversion Lead] [Data from UI fields fallbacks] Request is successfully
+    built and sent'
+  code: |-
+    setAllMockDataByEventType('conversion_lead', {
+      autoMapData: true
+    });
+
+    ['orderOrLeadId', 'idCompteur', 'effiId', 'effiId2', 'prodId', 'effiPcid', 'effiPcuid', 'effiParam1'].forEach(p => Object.delete(mockData, p));
+
+    setGetAllEventData();
+
+    mock('getCookieValues', (cookieName) => {
+      if (cookieName === 'eff_cid') {
+        return [
+          JSON.stringify({
+            id_compteur: 'eff_cpt_from_cookie',
+            effi_id: 'eff_sub1_from_cookie',
+            effi_id2: 'eff_sub2_from_cookie',
+            prod_id: 'eff_pid_from_cookie',
+            effi_pcid: 'eff_pcid_from_cookie',
+            effi_pcuid: 'eff_pcuid_from_cookie',
+            effi_param1: 'eff_pr1_from_cookie'
+          })
+        ];
+      }
+      return [];
+    });
+
+    mock('sendHttpRequest', (requestUrl, callback, requestOptions, requestBody) => {
+      assertThat(requestUrl).isEqualTo('https://track.effiliation.com/servlet/effi.leadmobile?id=effinityId&origin=stape_s2s&ref=transactionId&consent_performance=1&attrib=2&date=2025-12-31&ref2=123&id_compteur=eff_cpt_from_cookie&effi_id=eff_sub1_from_cookie&effi_id2=eff_sub2_from_cookie&prod_id=eff_pid_from_cookie&effi_pcid=eff_pcid_from_cookie&effi_pcuid=eff_pcuid_from_cookie&effi_param1=eff_pr1_from_cookie');
+      callback(200);
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Conversion Sale] [Data from UI fields] Request is successfully built and
+    sent'
+  code: |-
+    setAllMockDataByEventType('conversion_sale', {
+      autoMapData: false
+    });
+
+    mock('sendHttpRequest', (requestUrl, callback, requestOptions, requestBody) => {
+      assertThat(requestUrl).isEqualTo("https://track.effiliation.com/servlet/effi.revenuemobile?id=effinityId&origin=stape_s2s&ref=orderId&montant=value&monnaie=currency&voucher=voucher&payment=paymentype&newcustomer=1&cart_detail=%5B%7B%22id%22%3A%22SKU_12345%22%2C%22name%22%3A%22Stan%20and%20Friends%20Tee%22%2C%22price%22%3A10.01%2C%22quantity%22%3A3%7D%2C%7B%22id%22%3A%22SKU_12346%22%2C%22name%22%3A%22Google%20Grey%20Women's%20(Tee)%22%2C%22price%22%3A21.01%2C%22quantity%22%3A2%7D%5D&consent_performance=1&attrib=2&date=2025-12-31&ref2=123&id_compteur=eff_cpt&effi_id=eff_sub1&effi_id2=eff_sub2&prod_id=eff_pid&effi_pcid=eff_pcid&effi_pcuid=eff_pcuid&effi_param1=eff_pr1");
+      callback(200);
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Conversion Sale] [Data from UI fields fallbacks] Request is successfully
+    built and sent'
+  code: |-
+    setAllMockDataByEventType('conversion_sale', {
+      autoMapData: true
+    });
+
+    ['orderOrLeadId', 'value', 'currency', 'voucher', 'paymentType', 'newCustomer', 'cart', 'idCompteur', 'effiId', 'effiId2', 'prodId', 'effiPcid', 'effiPcuid', 'effiParam1'].forEach(p => Object.delete(mockData, p));
+
+    setGetAllEventData();
+
+    mock('getCookieValues', (cookieName) => {
+      if (cookieName === 'eff_cid') {
+        return [
+          JSON.stringify({
+            id_compteur: 'eff_cpt_from_cookie',
+            effi_id: 'eff_sub1_from_cookie',
+            effi_id2: 'eff_sub2_from_cookie',
+            prod_id: 'eff_pid_from_cookie',
+            effi_pcid: 'eff_pcid_from_cookie',
+            effi_pcuid: 'eff_pcuid_from_cookie',
+            effi_param1: 'eff_pr1_from_cookie'
+          })
+        ];
+      }
+      return [];
+    });
+
+    mock('sendHttpRequest', (requestUrl, callback, requestOptions, requestBody) => {
+      assertThat(requestUrl).isEqualTo("https://track.effiliation.com/servlet/effi.revenuemobile?id=effinityId&origin=stape_s2s&ref=transactionId&montant=123.45&monnaie=BRL&voucher=coupon&payment=card&newcustomer=1&cart_detail=%5B%7B%22id%22%3A%22SKU_12345%22%2C%22name%22%3A%22Stan%20and%20Friends%20Tee%22%2C%22price%22%3A10.01%2C%22quantity%22%3A3%7D%2C%7B%22id%22%3A%22SKU_12346%22%2C%22name%22%3A%22Google%20Grey%20Women's%20(Tee)%22%2C%22price%22%3A21.01%2C%22quantity%22%3A2%7D%5D&consent_performance=1&attrib=2&date=2025-12-31&ref2=123&id_compteur=eff_cpt_from_cookie&effi_id=eff_sub1_from_cookie&effi_id2=eff_sub2_from_cookie&prod_id=eff_pid_from_cookie&effi_pcid=eff_pcid_from_cookie&effi_pcuid=eff_pcuid_from_cookie&effi_param1=eff_pr1_from_cookie");
+      callback(200);
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasCalled();
+    assertApi('gtmOnFailure').wasNotCalled();
+- name: '[Conversion] Failure handler is called if response status code is outside
+    success range'
+  code: |-
+    setAllMockDataByEventType('conversion_sale');
+
+    mock('sendHttpRequest', (requestUrl, callback, requestOptions, requestBody) => {
+      callback(500);
+    });
+
+    runCode(mockData);
+
+    assertApi('gtmOnSuccess').wasNotCalled();
+    assertApi('gtmOnFailure').wasCalled();
+- name: '[Logs] Should log to console'
+  code: "const originalMockData = setAllMockDataByEventType('conversion_sale');\n\n\
+    [\n  // if the 'Always log to console' option is selected\n  { mockData: { logType:\
+    \ 'always' }, expectedDebugMode: true },\n  // if the 'Log during debug and preview'\
+    \ option is selected AND is on preview mode\n  { mockData: { logType: 'debug'\
+    \ }, expectedDebugMode: true },\n].forEach(scenario => {\n  const copyMockData\
+    \ = JSON.parse(JSON.stringify(originalMockData));\n  mergeObj(copyMockData, scenario.mockData);\n\
+    \  \n  mock('getContainerVersion', () => {\n    return {\n      debugMode: scenario.expectedDebugMode\n\
+    \    };\n  }); \n  \n  mock('logToConsole', (logData) => {\n    const parsedLogData\
+    \ = JSON.parse(logData);\n    requiredConsoleKeys.forEach(p => assertThat(parsedLogData[p]).isDefined());\n\
+    \  });\n  \n  runCode(copyMockData);\n  \n  assertApi('logToConsole').wasCalled();\n\
+    \  assertApi('gtmOnSuccess').wasCalled();\n  assertApi('gtmOnFailure').wasNotCalled();\n\
+    });"
+- name: '[Logs] Should NOT log to console'
+  code: "const originalMockData = setAllMockDataByEventType('conversion_sale');\n\n\
+    [\n  // if the 'Log during debug and preview' option is selected AND is NOT on\
+    \ preview mode\n  { mockData: { logType: 'debug' }, expectedDebugMode: false },\n\
+    \  // if the 'Do not log' option is selected\n  { mockData: { logType: 'no' },\
+    \ expectedDebugMode: undefined },\n].forEach(scenario => {\n  const copyMockData\
+    \ = JSON.parse(JSON.stringify(originalMockData));\n  mergeObj(copyMockData, scenario.mockData);\n\
+    \  \n  mock('getContainerVersion', () => {\n    return {\n      debugMode: scenario.expectedDebugMode\n\
+    \    };\n  });\n  \n  runCode(copyMockData);\n\n  assertApi('logToConsole').wasNotCalled();\n\
+    \  assertApi('gtmOnSuccess').wasCalled();\n  assertApi('gtmOnFailure').wasNotCalled();\n\
+    });"
+- name: '[Logs] Should log to BQ, if the ''Log to BigQuery'' option is selected'
+  code: "setAllMockDataByEventType('conversion_sale');\n\nmockData.bigQueryLogType\
+    \ = 'always';\n\nmockObject('BigQuery', {\n  insert: (connectionInfo, rows, options)\
+    \ => { \n    assertThat(connectionInfo).isDefined();\n    assertThat(rows).isArray();\n\
+    \    assertThat(rows).hasLength(1);\n    requiredBqKeys.forEach(p => assertThat(rows[0][p]).isDefined());\n\
+    \    assertThat(options).isEqualTo(expectedBqOptions);\n    return Promise.create((resolve,\
+    \ reject) => {\n      resolve();\n    });\n  }\n});\n\nrunCode(mockData);\n\n\
+    assertApi('gtmOnSuccess').wasCalled();\nassertApi('gtmOnFailure').wasNotCalled();\n"
+- name: '[Logs] Should NOT log to BQ, if the ''Do not log to BigQuery'' option is
+    selected'
+  code: "setAllMockDataByEventType('conversion_sale');\n\nmockData.bigQueryLogType\
+    \ = 'no';\n\n// assertApi doesn't work for 'BigQuery.insert()'.\n// Ref: https://gtm-gear.com/posts/gtm-templates-testing/\n\
+    mockObject('BigQuery', {\n  insert: (connectionInfo, rows, options) => { \n  \
+    \  fail('BigQuery.insert should not have been called.');\n    return Promise.create((resolve,\
+    \ reject) => {\n      resolve();\n    });\n  }\n});\n\nrunCode(mockData);\n\n\
+    assertApi('gtmOnSuccess').wasCalled();\nassertApi('gtmOnFailure').wasNotCalled();"
+setup: "const JSON = require('JSON');\nconst Promise = require('Promise');\nconst\
+  \ parseUrl = require('parseUrl');\nconst Object = require('Object');\n\nfunction\
+  \ mergeObj(target, source) {\n  for (const key in source) {\n    if (source.hasOwnProperty(key))\
+  \ target[key] = source[key];\n  }\n  return target;\n}\n\nconst setGetAllEventData\
+  \ = (objToBeMerged) => {\n  mock('getAllEventData', mergeObj({\n    'x-ga-protocol_version':\
+  \ '2',\n    'x-ga-measurement_id': 'G-123ABC',\n    'x-ga-gtm_version': '45je55e1za200',\n\
+  \    'x-ga-page_id': 1747422523211,\n    'x-ga-gcd': '13l3l3l3l1l1',\n    'x-ga-npa':\
+  \ '0',\n    'x-ga-dma': '0',\n    'x-ga-mp2-tag_exp':\n      '101509157~103116025~103130498~103130500~103136993~103136995~103200001~103207802~103211513~103233427~103252644~103252646~103263073~103301114~103301116',\n\
+  \    client_id: 'AUJctU7H7hBB/aMuhE4pKwGu5DWDdklg5abyyyn8i/I=.1747154479',\n   \
+  \ 'x-ga-ecid': '1294673677',\n    language: 'en-us',\n    screen_resolution: '1512x982',\n\
+  \    event_location: { country: 'BR', region: 'SP' },\n    event_id: '101509157~103116025~103130498',\n\
+  \    timestamp: 1748377016,\n    client_hints: {\n      architecture: 'arm',\n \
+  \     bitness: '64',\n      full_version_list: [\n        { brand: 'Chromium', version:\
+  \ '136.0.7103.93' },\n        { brand: 'Google Chrome', version: '136.0.7103.93'\
+  \ },\n        { brand: 'Not.A/Brand', version: '99.0.0.0' }\n      ],\n      mobile:\
+  \ false,\n      model: '',\n      platform: 'macOS',\n      platform_version: '15.2.0',\n\
+  \      wow64: false,\n      brands: [\n        { brand: 'Chromium', version: '136'\
+  \ },\n        { brand: 'Google Chrome', version: '136' },\n        { brand: 'Not.A/Brand',\
+  \ version: '99' }\n      ]\n    },\n    'x-ga-are': '1',\n    'x-ga-mp2-frm': '0',\n\
+  \    'x-ga-pscdl': 'noapi',\n    'x-ga-system_properties': { eu: [34], tu: 'BA',\
+  \ ss: '1', ee: true },\n    'x-sst-system_properties': {\n      etld: 'google.com.br',\n\
+  \      tft: '1747422523211',\n      lpc: '60493049',\n      navt: 'r',\n      ude:\
+  \ '0',\n      sw_exp: '1',\n      request_start_time_ms: 1747422524851\n    },\n\
+  \    'x-ga-request_count': 1,\n    ga_session_id: '1747422523',\n    ga_session_number:\
+  \ 3,\n    'x-ga-mp2-seg': '0',\n    page_location: 'https://example.com/?test=1i23i21j3',\n\
+  \    page_title: 'Example Domain',\n    event_name: 'page_view',\n    'x-ga-tfd':\
+  \ 5784,\n    ip_override: '2804:14d:c096:8dd6:311c:8c00:e6c:e33',\n    user_agent:\n\
+  \      'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,\
+  \ like Gecko) Chrome/136.0.0.0 Safari/537.36',\n    transaction_id: 'transactionId',\n\
+  \    value: 123.45,\n    currency: 'BRL',\n    payment_type: 'card',\n    customer_type:\
+  \ 'new', \n    user_id: 'userId',\n    user_data: {\n      email: { 0: 'userEmail',\
+  \ 1: 'test2@example.net' },\n      phone_number: '+55 (19) 99999-9999'\n    },\n\
+  \    coupon: 'coupon',\n    items: [\n      {\n        item_id: 'SKU_12345',\n \
+  \       item_name: 'Stan and Friends Tee',\n        affiliation: 'Google Merchandise\
+  \ Store',\n        coupon: 'SUMMER_FUN',\n        discount: 2.22,\n        index:\
+  \ 0,\n        item_brand: 'Google',\n        item_category: 'Apparel|iajsdiajsd|oasodiasd',\n\
+  \        item_list_id: 'related_products',\n        item_list_name: 'Related Products',\n\
+  \        item_variant: 'green',\n        location_id: 'ChIJIQBpAG2ahYAR_6128GcTUEo',\n\
+  \        price: 10.01,\n        quantity: 3,\n        item_group_id: 'abc'\n   \
+  \   },\n      {\n        item_id: 'SKU_12346',\n        item_name: \"Google Grey\
+  \ Women's (Tee)\",\n        affiliation: 'Google Merchandise Store',\n        coupon:\
+  \ 'SUMMER_FUN',\n        discount: 3.33,\n        index: 1,\n        item_brand:\
+  \ 'Google',\n        item_category: 'Apparel|iajsdiajsd|oasodiasd',\n        item_list_id:\
+  \ 'related_products',\n        item_list_name: 'Related Products',\n        item_variant:\
+  \ 'gray',\n        location_id: 'ChIJIQBpAG2ahYAR_6128GcTUEo',\n        price: 21.01,\n\
+  \        promotion_id: 'P_12345',\n        promotion_name: 'Summer Sale',\n    \
+  \    quantity: 2,\n        item_group_id: 'xyz'\n      }\n    ]\n  }, objToBeMerged\
+  \ || {}));\n};\n\nconst expectedBigQuerySettings = {\n  logBigQueryProjectId: 'logBigQueryProjectId',\n\
+  \  logBigQueryDatasetId: 'logBigQueryDatasetId',\n  logBigQueryTableId: 'logBigQueryTableId'\n\
+  };\n\nconst requiredConsoleKeys = ['Type', 'TraceId', 'Name'];\nconst requiredBqKeys\
+  \ = ['timestamp', 'type', 'trace_id', 'tag_name'];\nconst expectedBqOptions = {\
+  \ ignoreUnknownValues: true };\n\nconst mockData = {\n  useOptimisticScenario: false,\n\
+  \  adStorageConsent: 'optional',\n  logBigQueryProjectId: expectedBigQuerySettings.logBigQueryProjectId,\n\
+  \  logBigQueryDatasetId: expectedBigQuerySettings.logBigQueryDatasetId,\n  logBigQueryTableId:\
+  \ expectedBigQuerySettings.logBigQueryTableId\n};\n\nconst setAllMockDataByEventType\
+  \ = (type, objToBeMerged) => {\n  const mockDataByEventType = {\n    pageView: {\n\
+  \      type: 'pageView',\n      cookieDomain: 'auto',\n      cookieHttpOnly: false,\n\
+  \      cookieSameSite: 'none',\n      cookieExpiration: '30'\n    },\n    conversion_sale:\
+  \ { \n      type: 'conversion',\n      conversionType: 'sale',\n      autoMapData:\
+  \ true,\n      effinityId: 'effinityId',\n      consentPerformance: true,\n    \
+  \  orderOrLeadId: 'orderId',\n      value: 'value',\n      currency: 'currency',\n\
+  \      voucher: 'voucher',\n      idCompteur: 'eff_cpt',\n      effiId: 'eff_sub1',\n\
+  \      effiId2: 'eff_sub2',\n      prodId: 'eff_pid',\n      effiPcid: 'eff_pcid',\n\
+  \      effiPcuid: 'eff_pcuid',\n      effiParam1: 'eff_pr1',\n      paymentType:\
+  \ 'paymentype',\n      newCustomer: true,\n      cart: [\n        {\n          item_id:\
+  \ 'SKU_12345',\n          item_name: 'Stan and Friends Tee',\n          price: 10.01,\n\
+  \          quantity: 3\n        },\n        {\n          item_id: 'SKU_12346',\n\
+  \          item_name: \"Google Grey Women's (Tee)\",\n          price: 21.01,\n\
+  \          quantity: 2\n        }\n      ],\n      attribution: 2,\n      date:\
+  \ '2025-12-31',\n      customFields: [{ name: 'ref2', value: '123' }],\n      adStorageConsent:\
+  \ 'optional',\n      logType: 'debug',\n      bigQueryLogType: 'no'\n    },\n  \
+  \  conversion_lead: {\n      type: 'conversion',\n      conversionType: 'lead',\n\
+  \      autoMapData: true,\n      effinityId: 'effinityId',\n      consentPerformance:\
+  \ true,\n      orderOrLeadId: 'leadId',\n      idCompteur: 'eff_cpt',\n      effiId:\
+  \ 'eff_sub1',\n      effiId2: 'eff_sub2',\n      prodId: 'eff_pid',\n      effiPcid:\
+  \ 'eff_pcid',\n      effiPcuid: 'eff_pcuid',\n      effiParam1: 'eff_pr1',\n   \
+  \   attribution: 2,\n      date: '2025-12-31',\n      customFields: [{ name: 'ref2',\
+  \ value: '123' }],\n      adStorageConsent: 'optional',\n      logType: 'debug',\n\
+  \      bigQueryLogType: 'no'\n    }\n  };\n  \n  mergeObj(mockDataByEventType[type],\
+  \ objToBeMerged || {});\n  mergeObj(mockData, mockDataByEventType[type]);\n  return\
+  \ mockData;\n};\n\nmock('sendHttpRequest', (requestUrl, callback, requestOptions,\
+  \ requestBody) => {\n  if (typeof callback === 'function') {\n    callback(200);\n\
+  \  } else {\n    requestBody = requestOptions;\n    requestOptions = callback;\n\
+  \    return Promise.create((resolve, reject) => {\n      resolve({ statusCode: 200\
+  \ });\n    });  \n  }\n});\n\nmock('getRequestHeader', (header) => {\n  if (header\
+  \ === 'trace-id') return 'expectedTraceId';\n});\n\nmock('getTimestampMillis', 1747945830456);\n\
+  \nmock('generateRandom', 123456789);"
+
+
+___NOTES___
+
+Created on 7/31/2025, 6:02:27 PM
+

@@ -1,0 +1,5 @@
+homepage: 'https://stape.io/'
+documentation: 'https://github.com/stape-io/effinity-tag'
+versions:
+  - sha: 8256119445ff1c0a358102b2c4e9ea666a6f18d1
+    changeNotes: Initial release.
