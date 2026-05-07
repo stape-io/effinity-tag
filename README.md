@@ -39,3 +39,6 @@ This tag should fire when a conversion (a sale or lead) occurs.
 ## Open Source
 
 The **Effinity Tag for GTM Server-Side** is developed and maintained by the [Stape Team](https://stape.io/) under the Apache 2.0 license.
+
+### GTM Gallery Status
+🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/effinity-tag)
